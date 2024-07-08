@@ -1,4 +1,4 @@
-let name = "KYM_SFARIS";       variable declaration
+let name = "KYM_SFARIS";
 let age = "22";
 let IsStudent = false;
 console.log(name)

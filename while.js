@@ -10,4 +10,3 @@ do{
     console.log("do...while loop iteration...:" + i);
     i +=  2;
 } while(i <= 20);
-
